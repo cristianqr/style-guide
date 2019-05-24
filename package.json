@@ -1,0 +1,22 @@
+{
+  "name": "@nadall/style-guide",
+  "version": "1.0.0",
+  "description": "Style guide for nadall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianqr/style-guide.git"
+  },
+  "keywords": [
+    "style-guide"
+  ],
+  "author": "Cristian Quispe Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianqr/style-guide/issues"
+  },
+  "homepage": "https://github.com/cristianqr/style-guide#readme"
+}

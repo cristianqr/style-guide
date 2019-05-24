@@ -1,0 +1,10 @@
+@import "../utils/variables";
+table {
+    width: 100%;
+    thead {
+        th {
+            background-color: $primary-color;
+            color: #ffffff;
+        }
+    }
+}
